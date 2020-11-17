@@ -7,4 +7,4 @@ My idea is to be a good developer in all languages.
 - 🤔 I’m looking for Java, C, C++, C#.
 - 📫 Contact: ! MrGamingBR#0001
 
-![Stats](https://github-readme-stats.vercel.app/api?username=MrGamingBR)
+![MrGamingBR Stats](https://github-readme-stats.vercel.app/api?username=MrGamingBR&theme=dark&show_icons=true)
